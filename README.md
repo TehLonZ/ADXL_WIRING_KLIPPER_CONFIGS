@@ -143,7 +143,7 @@ probe_points:
 
 XIAO RP2040
 
-Instructions: 
+Flashing Instructions: 
 https://github.com/TehLonZ/Xiao_rp2040_ADXL_Klipper
 
 Adafruit QT PY used for Fritzing modeling. 
