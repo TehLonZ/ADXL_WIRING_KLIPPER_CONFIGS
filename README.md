@@ -44,7 +44,7 @@ https://www.klipper3d.org/RPi_microcontroller.html
 
 
 RPI to ADXL 
-
+------
 ![image](https://user-images.githubusercontent.com/94410881/161445656-e775ffca-72fe-45c6-a7d3-df76b7fa07a1.png)
 
 Connections:
@@ -74,7 +74,7 @@ probe_points:
 ------------------------------------------
 
 XIAO SAMD21
-
+---
 Follow flashing instructions via: 
 Credit to : EsserPrototyping
 
@@ -142,7 +142,7 @@ probe_points:
 -------------------------------------
 
 XIAO RP2040
-
+--
 Flashing Instructions: 
 https://github.com/TehLonZ/Xiao_rp2040_ADXL_Klipper
 
